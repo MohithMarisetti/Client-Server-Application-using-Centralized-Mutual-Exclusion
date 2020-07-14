@@ -1,0 +1,12 @@
+References:
+https://www.geeksforgeeks.org/introducing-threads-socket-programming-java/
+https://www.tutorialspoint.com/java/java_datainputstream.htm
+https://stackoverflow.com/questions/8632705/how-to-close-a-gui-when-i-push-a-jbutton
+
+Execution:
+1) Open the project folder in any IDE
+2) Run the server_gui.java file: This file generates a Graphical USer Interface for the server and makes it listen to incoming client requests
+3) Run client_gui.java, client2_gui.java , client3_gui.java individually in IDE.
+4) Enter your names in second textfield of the client gui and then the Server GUI window will show the users connected in realtime.
+5) Client GUI is used to send yes/no to either generate a number or not. This is done in second textfield of the client GUI.
+6) Output from the server is shown in the third textfield of the client GUI. The total number of seconds waited by the client program is displayed in this field.
